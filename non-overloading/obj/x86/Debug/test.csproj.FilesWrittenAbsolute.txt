@@ -1,0 +1,5 @@
+/home/anukul/Projects/test/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/anukul/Projects/test/test/bin/Debug/test.exe.mdb
+/home/anukul/Projects/test/test/bin/Debug/test.exe
+/home/anukul/Projects/test/test/obj/x86/Debug/test.exe
+/home/anukul/Projects/test/test/obj/x86/Debug/test.exe.mdb
